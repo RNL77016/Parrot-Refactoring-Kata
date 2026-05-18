@@ -5,7 +5,6 @@ public class AfricanParrot extends Parrot {
     private final int numberOfCoconuts;
     
     public AfricanParrot(int numberOfCoconuts) {
-        super(numberOfCoconuts, 0, false);
         this.numberOfCoconuts = numberOfCoconuts;
     }
     
